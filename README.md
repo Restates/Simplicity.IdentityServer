@@ -10,4 +10,4 @@ The code is under Apache 2.0 license. Refer to the [LICENSE](/LICENSE) for detai
 
 ## Any questions, comments or additions?
 
-If you have a feature request or bug report, leave an issue on the [issues page](/issues) or send a [pull request](/pulls).
+If you have a feature request or bug report, leave an issue on the [issues page](https://github.com/Simplicity-Alpha/Simplicity.IdentityServer/issues) or send a [pull request](https://github.com/Simplicity-Alpha/Simplicity.IdentityServer/pulls).
